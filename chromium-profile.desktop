@@ -1,0 +1,8 @@
+[Desktop Entry]
+Comment=Chrome Profile 1
+Terminal=false
+Name=Chromium P1
+Exec=/usr/bin/chromium-browser --profile-directory='Profile 1'
+Type=Application
+Icon=/home/filipiru/.config/chromium/Profile 1/Google Profile Picture.png
+Name[en_US]=Chromium P1
